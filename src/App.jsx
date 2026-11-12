@@ -1,7 +1,7 @@
 //ไฟล์สำหรับตั้งค่า Router ต่างๆ ของการ Re-render
 import { BrowserRouter, Router, Route, Routes } from "react-router";
 import Home from "./pages/Home";
-import Bmi from "./pages/Bmi";
+import Bmi from "./pages/bmi";
 import Bmr from "./pages/Bmr";
 import Car from "./pages/Car";
 export default function App() {
