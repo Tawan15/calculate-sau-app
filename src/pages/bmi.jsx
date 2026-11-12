@@ -2,7 +2,7 @@ import bmi from "./../assets/bmi.png";
 import { Link } from "react-router";
 import { useState } from "react";
 import Swal from "sweetalert2";
-import Footer from "./../components/Footer";
+import Footer from "../components/Footer";
 
 export default function Bmi() {
   // สร้าง state
